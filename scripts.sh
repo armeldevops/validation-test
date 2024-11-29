@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "task 1 complete"
+echo "task 1 complete now"
