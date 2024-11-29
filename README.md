@@ -1,2 +1,0 @@
-# validation-repo
-# validation-test
